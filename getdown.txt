@@ -1,0 +1,5 @@
+# UI Configuration
+ui.name = Studio Editor
+
+# Application jar files
+code = application.jar
